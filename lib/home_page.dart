@@ -69,7 +69,7 @@ class HomePage extends StatelessWidget {
                 "Bachelor of Computer Science & Information Technology",
                 "2013 - 2017"),
             _buildEducation(
-                "Global College of Management", "+2", "2011 - 2013"),
+                "Global College of Management", "+2", "2011 - 2012"),
             _buildEducation("The New Summit School", "Nepal Board", "2010"),
             SizedBox(
               height: 10.0,
